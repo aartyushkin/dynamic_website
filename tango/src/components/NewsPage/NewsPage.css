@@ -1,0 +1,17 @@
+.news-page-event {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    background: peachpuff;
+}
+
+.news-page-event-date {
+    font-weight: bold;
+}
+
+.news-page-event-title {
+    font-style: italic;
+}
+
+.news-page-event-description {
+
+}
